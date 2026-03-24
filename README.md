@@ -1,28 +1,7 @@
-## Hi there 👋
+How to install HVM panel 👋
+full setup video
+LINK https://www.youtube.com/@AnshuCodehub
 
-<!--
-**cubecloudhost/CubeCloudHost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CMD
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-jzlsmssm
-xmsmnsds s
-skdjddmkdd
-dkdmdklds
-dkess
-skdk
-sksssk
-s
-siss
-sisms
-js
-smsosls
--->
+bash <(curl -fsSL https://raw.githubusercontent.com/cubecloudhost/CubeCloudHost/main/installer.sh)
